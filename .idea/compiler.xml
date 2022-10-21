@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-logback" />
         <module name="demo-mybatisplus" />
+        <module name="demo-security" />
         <module name="demo-client" />
         <module name="demo-logaop" />
         <module name="demo-admin" />

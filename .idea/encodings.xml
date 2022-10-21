@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/demo-logback/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-mybatisplus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-mybatisplus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-security/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
