@@ -23,6 +23,7 @@ public abstract class SingletonTest<S> {
     /**
      * 获取单例实例的方法
      */
+//    每次调用get()方法时都会调用构造方法创建一个新对象
     private final Supplier<S> singletonInstanceMethod;
 
     /**
@@ -65,6 +66,7 @@ public abstract class SingletonTest<S> {
         // 使用 10 个不同的线程来分别执行这 5000 个任务
         final ExecutorService pool = Executors.newFixedThreadPool(10);
         final List<Future<S>> results = pool.invokeAll(tasks);
+        System.out.println(results.size());//5000
 
         // 预期结果
         S expectedResult = singletonInstanceMethod.get();
