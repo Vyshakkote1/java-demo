@@ -9,10 +9,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-logback" />
         <module name="demo-mybatisplus" />
-        <module name="demo-security" />
         <module name="demo-client" />
         <module name="demo-logaop" />
         <module name="demo-admin" />
+        <module name="demo-Singleton" />
+      </profile>
+      <profile name="Annotation profile for java-demo" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar" />
+        </processorPath>
+        <module name="demo-security" />
       </profile>
     </annotationProcessing>
   </component>
