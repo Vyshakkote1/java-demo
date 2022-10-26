@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/demo-logaop/pom.xml" />
         <option value="$PROJECT_DIR$/demo-mybatisplus/pom.xml" />
         <option value="$PROJECT_DIR$/demo-security/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-jwt/pom.xml" />
       </list>
     </option>
   </component>

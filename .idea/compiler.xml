@@ -7,12 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-logback" />
-        <module name="demo-mybatisplus" />
+        <module name="demo-jwt" />
         <module name="demo-client" />
-        <module name="demo-logaop" />
         <module name="demo-admin" />
         <module name="demo-Singleton" />
+        <module name="demo-logback" />
+        <module name="demo-mybatisplus" />
+        <module name="demo-logaop" />
       </profile>
       <profile name="Annotation profile for java-demo" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
