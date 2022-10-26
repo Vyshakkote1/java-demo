@@ -16,7 +16,7 @@
         <module>demo-mybatisplus</module>
         <module>demo-security</module>
         <module>demo-Singleton</module>
-        <module>demo-Singleton</module>
+        <module>demo-jwt</module>
     </modules>
 
     <properties>
