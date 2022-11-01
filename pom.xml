@@ -17,6 +17,7 @@
         <module>demo-security</module>
         <module>demo-Singleton</module>
         <module>demo-jwt</module>
+        <module>demo-exception</module>
     </modules>
 
     <properties>

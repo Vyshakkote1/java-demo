@@ -13,6 +13,7 @@
         <module name="demo-Singleton" />
         <module name="demo-logback" />
         <module name="demo-mybatisplus" />
+        <module name="demo-exception" />
         <module name="demo-logaop" />
       </profile>
       <profile name="Annotation profile for java-demo" enabled="true">
