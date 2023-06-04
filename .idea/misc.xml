@@ -10,7 +10,16 @@
         <option value="$PROJECT_DIR$/demo-security/pom.xml" />
         <option value="$PROJECT_DIR$/demo-jwt/pom.xml" />
         <option value="$PROJECT_DIR$/demo-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-SaToken/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/Annotation/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-generics/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">

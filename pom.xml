@@ -18,6 +18,8 @@
         <module>demo-Singleton</module>
         <module>demo-jwt</module>
         <module>demo-exception</module>
+        <module>demo-treeNode</module>
+
     </modules>
 
     <properties>

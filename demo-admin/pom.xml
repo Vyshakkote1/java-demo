@@ -75,7 +75,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.xing.demoadmin.DemoAdminApplication</mainClass>
+                    <mainClass>com.xing.democlone.demoadmin.DemoAdminApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>

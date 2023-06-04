@@ -6,8 +6,8 @@
 package com.xing.demoexception.model;
 
 
-import com.xing.demoexception.constant.Status;
-import com.xing.demoexception.exception.BaseException;
+import Status;
+import BaseException;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

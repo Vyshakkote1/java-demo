@@ -8,13 +8,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo-jwt" />
+        <module name="demo-springboot" />
         <module name="demo-client" />
+        <module name="demo-SaToken" />
         <module name="demo-admin" />
         <module name="demo-Singleton" />
         <module name="demo-logback" />
         <module name="demo-mybatisplus" />
+        <module name="demo-treeNode" />
         <module name="demo-exception" />
         <module name="demo-logaop" />
+        <module name="Annotation" />
       </profile>
       <profile name="Annotation profile for java-demo" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -26,5 +30,9 @@
         <module name="demo-security" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-annotation" target="11" />
+      <module name="demo-generics" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

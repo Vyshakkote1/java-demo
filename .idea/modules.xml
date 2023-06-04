@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-JUC/demo-JUC.iml" filepath="$PROJECT_DIR$/demo-JUC/demo-JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-cloneable/demo-cloneable.iml" filepath="$PROJECT_DIR$/demo-cloneable/demo-cloneable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-notify/demo-notify.iml" filepath="$PROJECT_DIR$/demo-notify/demo-notify.iml" />
+    </modules>
+  </component>
+</project>
